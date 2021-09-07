@@ -679,8 +679,7 @@ footer span a:hover{
     }
 }
 .logos{
-    position: absolute;
-    top : 430%;
+    position: relative;
     left : 30%;
     width : 50%;
     padding: 10px 50px;
@@ -714,5 +713,5 @@ h4{
    padding-bottom: 5px;
    padding-top: 10px;
    padding-right: 0px;
-  
+   
 }
